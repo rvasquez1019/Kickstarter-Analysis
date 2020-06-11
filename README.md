@@ -2,5 +2,5 @@
  Performing analysis on Kickstarter data to uncover trends
 ###challenge
 ![Kickstarter-Analyst-Chart 1](https://github.com/rvasquez1019/Kickstarter-Analysis/blob/master/Kickstarter-Analyst-Chart%201.png)
-
+Based on the data that was created on the Outcomes Based on Launch Date chart, the "successful" is clear that it had it's increases and decreces.  May having the best fund raise performances follwoed by June in 2nd and July coming in 3rd.  Many of the play were successful do to reaching their Pledges on their fund raising Outcomes.  Many plays met thier Pledges by very little amounts of money.  I was not impressed on the amounts of money raised to meet the Pledges.  Some plays did pass the $1000 mark but that was a very small number of plays.  On the "failed" plays I thought the goal amounts were very high on what were the expectations.  The majority on the plays did not even get near thier Pledged.  "Canceled" plays were not too many.  In my opinion the "failed" plays should of been canceled instead giving them a "failed" label.    
 ![Kickstarter-Analyst-Chart 2](https://github.com/rvasquez1019/Kickstarter-Analysis/blob/master/Kickstarter-Analyst-Chart%202.png)
